@@ -1,0 +1,12 @@
+Title:
+EFA Base SEM - Motivation X Parental Support X SCI
+Data:
+File is "C:/Users/user/Jrvissoci/Duke/Sem/BaseSEMMplus.dat";
+Variable:
+Names are mere mein meid miao miee mic sci rp sp op rm sm om;
+Analysis:
+Type = EFA 1 5;
+Output:
+MODINDICES;
+Model:
+f1-f4 BY mere mein meid miao miee mic sci rp sp op rm sm om;
